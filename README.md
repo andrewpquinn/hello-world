@@ -15,6 +15,8 @@
 
 -Item the second
 
+This is the second attempt to understand GitHub Commits, etc. I had a dog named Dylan.
+
 'code'
 ---
 Below horizontal rule? Yes
